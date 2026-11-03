@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "catalog_name": "DiL's Song Vault Cloud 💕🔐",
+  "updated_at": "2026-11-03",
+  "message": "Welcome to your protected music vault, Chooti! 🌸 Every new song you sing will be encrypted into secure .dat files and ready to play anytime! 💖",
+  "songs": [
+    {
+      "id": "pemaka_chaya",
+      "title": "pemaka chaya",
+      "artist": "test",
+      "album": "test",
+      "dedication": "I Love You Chooti - Harshana😘",
+      "audio_url": "https://github.com/xmandevs85/Harshana-Devz/raw/refs/heads/main/Venuja%20Jayasinghe%20-%20Pemaka%20Chaya%20(%E0%B6%B4%E0%B7%99%E0%B6%B8%E0%B6%9A%20%E0%B6%A1%E0%B7%8F%E0%B6%BA%E0%B7%8F)%20_%20Official%20Music%20Video%20%5Bhoh0TQfBtrk%5D.dat",
+      "lyrics": "",
+      "genre": "Romantic",
+      "moods": ["loved", "happy"],
+      "note": "Chooti's sweetest acoustic melody 💖",
+      "duration_sec": 175,
+      "size_bytes": 2108371
+    }
+  ]
+}
